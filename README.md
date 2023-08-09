@@ -5,6 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22361229/yanjsantos)
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=YanjSantos&show_icons=true&theme=dracula)
+![Anderson Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanjSantos&hide_progress=true)
 
 ## Tecnologias que uso
 
